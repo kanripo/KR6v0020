@@ -1,21 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:09.938507
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:07
 #+TITLE: 大般涅槃經佛母品
 #+PROPERTY: CBETA_ID W01n0015c
 #+PROPERTY: ID KR6v0020
 #+PROPERTY: SOURCE Buddhist Texts not contained in the Tripitaka Vol. 01, No. 015c
 #+PROPERTY: VOL 01
 #+PROPERTY: BASEEDITION W
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6v0020_W_000-0382a>¶¶¶
 #+PROPERTY: LASTPB <pb:KR6v0020_W_001-0382a> ¶¶
 #+PROPERTY: JUAN 1
 ¶
 
-錄文三¶
+* 〔錄文三〕¶
 ¶
-
- 大般涅槃經佛母品¶
+大般涅槃經佛母品¶
 ¶
 
 爾時如來在拘尸那城拔提河側，二月十五日臨般涅槃，倚臥¶
@@ -67,9 +66,9 @@
 　一切叢林，
 　會有摧折；
 　一切恩愛，
-　會有離別。」
+　會有離別。」」
 #+END_VERSE
-」¶
+¶
 
 說此語已，便即復沒。
 <pb:KR6v0020_W_001-0385a>¶
