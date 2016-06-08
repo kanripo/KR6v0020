@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:09.938507
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:07
 #+TITLE: 大般涅槃經佛母品
 #+PROPERTY: CBETA_ID W01n0015c
 #+PROPERTY: ID KR6v0020
@@ -12,7 +12,7 @@
 #+PROPERTY: JUAN 1
 ¶
 
-錄文三¶
+* 錄文三¶
 ¶
 
  大般涅槃經佛母品¶
@@ -67,9 +67,9 @@
 　一切叢林，
 　會有摧折；
 　一切恩愛，
-　會有離別。」
+　會有離別。」」
 #+END_VERSE
-」¶
+¶
 
 說此語已，便即復沒。
 <pb:KR6v0020_W_001-0385a>¶
